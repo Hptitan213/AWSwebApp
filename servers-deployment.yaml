@@ -1,6 +1,6 @@
     
 Description: >
-  Server configuration, Girma Yilma 2019 Udacity DevOps P2
+  Server configuration, Robert Patterson 2019
 Parameters:
   EnvironmentName:
     Description: EnvironmentName name.
