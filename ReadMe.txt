@@ -1,3 +1,5 @@
+Udacity P2 Robert Patterson October 2019
+
 To deploy the project 
 
 Step 1:
@@ -26,5 +28,3 @@ aws cloudformation create-stack  --stack-name servers --template-body file://ser
 
 
 Step 5 go to EC2 dashboard and to loadbalancer menu and copy the DNS address and access index.html application on your browser.
-
-
