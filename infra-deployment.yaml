@@ -1,5 +1,5 @@
 Description: >
-  Network configuration Girma Yilma 2019 Udacity DevOps P2
+  Network configuration Robert Patterson Udacity P2 October 2019
 Parameters:
   EnvironmentName:
     Description: Environment Name for networks
